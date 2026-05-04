@@ -36,8 +36,8 @@ Puedes descargar la guía detallada de la práctica aquí:
 </p>
 
 <p align="left">
-  <a href="https://github.com/xOfho/CSharp-FileSystem-UNI-Prog_I1/raw/main/docs/AQUI VA EL LINK">
-    <img src="[https://img.shields.io/badge/DESCARGAR .ZIPS-Docs?style=for-the-badge&logo=adobe-acrobat-reader](https://www.mediafire.com/file/bispaktagnrqjn8/Archive.zip/file)&logoColor=white" />
+  <a href="https://www.mediafire.com/file/bispaktagnrqjn8/Archive.zip/file">
+    <img src="https://img.shields.io/badge/DESCARGAR .ZIPS-Docs?style=for-the-badge&logo=adobe-acrobat-reader" />
   </a>
 </p>
 

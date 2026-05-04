@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\forms\\transaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\forms\\transaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\forms\\transaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\forms\\transaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\forms\\facturarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\forms\\facturarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|c:\\users\\anxiety\\source\\repos\\sistema de facturacion no9\\sistema de facturacion no9\\forms\\facturarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC866B-14CF-AD22-4972-E17C1684846E}|Sistema de Facturacion No9\\Sistema de Facturacion No9.csproj|solutionrelative:sistema de facturacion no9\\forms\\facturarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\FacturarForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Forms\\FacturarForm.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\FacturarForm.cs [Design]",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Forms\\FacturarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:45:09.74Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransaccionesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs [Design]",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:45:56.127Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Form1.cs [Design]*",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:00:59.761Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransaccionesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Forms\\TransaccionesForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:46:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Entidades\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Entidades\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Entidades\\DetalleFactura.cs",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Entidades\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:19:14.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Entidades\\Factura.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Entidades\\Factura.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Entidades\\Factura.cs",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Entidades\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:19:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:17:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\FacturarForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Forms\\FacturarForm.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Forms\\FacturarForm.cs",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Forms\\FacturarForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:04:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistema de Facturacion No9\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anxiety\\source\\repos\\Sistema de Facturacion No9\\Sistema de Facturacion No9\\Form1.cs*",
+              "RelativeToolTip": "Sistema de Facturacion No9\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:43:14.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

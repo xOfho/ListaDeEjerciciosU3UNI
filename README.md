@@ -30,7 +30,7 @@ Este repositorio es una compilación técnica de **10 módulos funcionales** que
 Puedes descargar la guía detallada de la práctica aquí:
 
 <p align="left">
-  <a href="https://github.com/xOfho/CSharp-FileSystem-UNI-Prog_I1/raw/main/docs/Guia_Practica_Prog_II.pdf">
+  <a href="https://github.com/xOfho/CSharp-FileSystem-UNI-Prog_I1/raw/main/docs/Documentacion_Repositorio_U3UNI.pdf">
     <img src="https://img.shields.io/badge/DESCARGAR%20DOCUMENTACI%C3%93N-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>

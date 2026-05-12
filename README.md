@@ -2,14 +2,14 @@
   <img src="https://img.shields.io/badge/UNIVERSIDAD%20NACIONAL%20DE%20INGENIER%C3%8DA-UNI-blue?style=for-the-badge" />
 </p>
 
-# 🖥️ Informe de Desarrollo: Ecosistema C# & SQL Server
+#  Informe de Desarrollo: Ecosistema C# & SQL Server
 > **Proyecto:** Portafolio de Soluciones en Windows Forms  
 > **Asignatura:** Programación II  
 > **Desarrollador:** Oscar Hernández (@xOfho)
 
 ---
 
-## 📊 Resumen del Proyecto
+##  Resumen del Proyecto
 Este repositorio es una compilación técnica de **10 módulos funcionales** que demuestran el dominio de la programación orientada a objetos (POO), el manejo de bases de datos relacionales y la optimización de consultas mediante **LINQ**.
 
 <h2> Herramientas Tecnológicas</h2>
@@ -26,7 +26,7 @@ Este repositorio es una compilación técnica de **10 módulos funcionales** que
 
 ---
 
-## 📥 Documentación Oficial
+##  Documentación Oficial
 Puedes descargar la guía detallada de la práctica aquí:
 
 <p align="left">
@@ -43,7 +43,7 @@ Puedes descargar la guía detallada de la práctica aquí:
 
 ---
 
-## 🚀 Catálogo de Sistemas Desarrollados
+##  Catálogo de Sistemas Desarrollados
 
 <details>
 <summary><b>📂 Ver lista detallada de los 10 Ejercicios (Click aquí)</b></summary>
@@ -65,9 +65,9 @@ Puedes descargar la guía detallada de la práctica aquí:
 
 ---
 
-## 💡 Highlights Técnicos
+##  Highlights Técnicos
 
-### 🛡️ Transaccionalidad de Datos
+###  Transaccionalidad de Datos
 En el **Ejercicio 9**, garantizamos que la base de datos nunca quede en un estado inconsistente mediante el uso de transacciones:
 
 ```csharp

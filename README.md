@@ -68,19 +68,29 @@ Puedes descargar la guía detallada de la práctica aquí:
 ##  Highlights Técnicos
 
 ###  Transaccionalidad de Datos
-En el **Ejercicio 9**, garantizamos que la base de datos nunca quede en un estado inconsistente mediante el uso de transacciones:
 
-```csharp
-using (SqlTransaction transaction = connection.BeginTransaction()) {
-    try {
-        // Lógica de inserción de factura y detalle...
-        transaction.Commit();
-    } catch (Exception) {
-        transaction.Rollback(); // Si un producto falla, nada se guarda
-    }
-}
+## Sistema de Clientes
+Permite registrar, consultar y administrar información de clientes usando Windows Forms y SQL Server.
+## Sistema de Productos
+Sistema para registrar, editar y buscar productos dentro de un catálogo con filtros y búsquedas dinámicas.
+## Sistema de Estudiantes
+Aplicación para gestionar estudiantes y calificaciones, mostrando información ordenada por diferentes criterios.
+## Sistema de Empleados
+Controla empleados, salarios y pagos, incluyendo cálculos relacionados con nómina.
+## Control de Inventario
+Administra productos y cantidades disponibles, ayudando a controlar el stock y detectar baja existencia.
+## Sistema de Biblioteca
+Gestiona préstamos y devoluciones de libros, mostrando el estado actual de cada libro.
+## Sistema de Ventas
+Registra ventas y genera reportes básicos sobre productos vendidos y montos comerciales.
+## Sistema Médico
+Administra información de pacientes y expedientes médicos mediante formularios conectados a base de datos.
+## Sistema de Facturación
+Permite crear y almacenar facturas usando transacciones seguras en SQL Server.
+## Sistema Universitario
+Gestiona estudiantes, materias y docentes utilizando relaciones entre tablas para organizar información académica.
 
-```
+
 # Contribuidores
 <a href="https://github.com/ThePhilos/CSharp-Ventas-UNI-Prog_I2/graphs/contributors">
 <table align="center">

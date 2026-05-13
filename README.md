@@ -48,18 +48,18 @@ Puedes descargar la guía detallada de la práctica aquí:
 <details>
 <summary><b>📂 Ver lista detallada de los 10 Ejercicios (Click aquí)</b></summary>
 
-| ID | Sistema | Funcionalidad Principal | Concepto Técnico Aplicado |
-| :--- | :--- | :--- | :--- |
-| 01 | **Clientes** | Registro y persistencia. | SQL Parameters (Anti-Injection) |
-| 02 | **Productos** | Búsqueda dinámica. | LINQ `.Contains()` |
-| 03 | **Estudiantes** | Ranking académico. | `OrderByDescending` |
-| 04 | **Empleados** | Gestión de nómina. | Agregación de datos (`.Sum`) |
-| 05 | **Inventario** | Control de Stock. | Filtrado condicional por stock crítico |
-| 06 | **Biblioteca** | Préstamos activos. | Manejo de estados booleanos |
-| 07 | **Ventas** | Business Intelligence. | `GroupBy` & Agrupamiento complejo |
-| 08 | **Médico** | Expedientes clínicos. | Filtrado demográfico por edad |
-| 09 | **Facturación** | Transacciones seguras. | `SqlTransaction` (Atomicidad/Rollback) |
-| 10 | **Universitario**| Relaciones de Datos. | LINQ Joins (Relaciones 1:N) |
+| ID | Sistema | Funcionalidad Principal |
+| :--- | :--- | :--- |
+| 01 | **Clientes** | Registro y persistencia. |
+| 02 | **Productos** | Búsqueda dinámica. |
+| 03 | **Estudiantes** | Ranking académico. |
+| 04 | **Empleados** | Gestión de nómina. |
+| 05 | **Inventario** | Control de Stock. |
+| 06 | **Biblioteca** | Préstamos activos. |
+| 07 | **Ventas** | Business Intelligence. |
+| 08 | **Médico** | Expedientes clínicos. |
+| 09 | **Facturación** | Transacciones seguras. |
+| 10 | **Universitario**| Relaciones de Datos. |
 
 </details>
 

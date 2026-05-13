@@ -65,14 +65,12 @@ Puedes descargar la guía detallada de la práctica aquí:
 
 ---
 
-##  Highlights Técnicos
-
-###  Transaccionalidad de Datos
-
 ## Sistema de Clientes
 Permite registrar, consultar y administrar información de clientes usando Windows Forms y SQL Server.
+
 ## Sistema de Productos
 Sistema para registrar, editar y buscar productos dentro de un catálogo con filtros y búsquedas dinámicas.
+
 ## Sistema de Estudiantes
 Aplicación para gestionar estudiantes y calificaciones, mostrando información ordenada por diferentes criterios.
 ## Sistema de Empleados
